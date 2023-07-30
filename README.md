@@ -26,16 +26,16 @@ This ft_printf function supports several format specifiers, described below.
 ## Usage
 #### 1st - Clone the repository
 ``` bash
-git clone git@github.com:MartimPinto/libft.git libft
+git@github.com:MartimPinto/ft_printf.git ft_printf
 ```
 #### 2nd - Enter the library folder and run Make
 ``` bash
-cd libft
+cd ft_printf/src
 make
 ```
 #### 3rd - Include the header in your .c file
 ``` c
-#include "libft.h"
+#include "ft_printf.h"
 ```
 ## Norme
 
